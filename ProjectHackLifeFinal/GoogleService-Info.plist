@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>256409833872-stmeikuf601ga056c73i284mj5qi1gdt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.256409833872-stmeikuf601ga056c73i284mj5qi1gdt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBBijDE8Kvcheg4SLSwPuC5NS0_z9vDjnQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>256409833872</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>HackLifeProjectFinal.ProjectHackLifeFinal</string>
+	<key>PROJECT_ID</key>
+	<string>finalhacklifeproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finalhacklifeproject.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:256409833872:ios:ee8f61688ba2cb5f34a315</string>
+	<key>DATABASE_URL</key>
+	<string>https://finalhacklifeproject.firebaseio.com</string>
+</dict>
+</plist>

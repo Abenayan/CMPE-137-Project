@@ -1,0 +1,6 @@
+framework module Pods_ProjectHackLifeFinal {
+  umbrella header "Pods-ProjectHackLifeFinal-umbrella.h"
+
+  export *
+  module * { export * }
+}
